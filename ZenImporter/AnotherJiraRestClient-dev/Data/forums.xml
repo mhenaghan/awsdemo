@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<forums report_date="20140604">
+<forum>
+  <category-id type="integer" nil="true"/>
+  <description>New features, fixes, and other important announcements.</description>
+  <display-type-id type="integer">1</display-type-id>
+  <entries-count type="integer">0</entries-count>
+  <id type="integer">20089897</id>
+  <is-locked type="boolean">true</is-locked>
+  <name>Announcements</name>
+  <organization-id type="integer" nil="true"/>
+  <position type="integer">1</position>
+  <translation-locale-id type="integer" nil="true"/>
+  <updated-at type="datetime">2013-04-19T10:52:12+10:00</updated-at>
+  <use-for-suggestions type="boolean">true</use-for-suggestions>
+  <visibility-restriction-id type="integer">1</visibility-restriction-id>
+  <is-public type="boolean">true</is-public>
+</forum>
+<forum>
+  <category-id type="integer" nil="true"/>
+  <description>Questions and answers. Ask questions, vote, and watch the community answer.</description>
+  <display-type-id type="integer">3</display-type-id>
+  <entries-count type="integer">0</entries-count>
+  <id type="integer">20089902</id>
+  <is-locked type="boolean">false</is-locked>
+  <name>Community Help</name>
+  <organization-id type="integer" nil="true"/>
+  <position type="integer">2</position>
+  <translation-locale-id type="integer" nil="true"/>
+  <updated-at type="datetime">2011-06-02T22:26:00+10:00</updated-at>
+  <use-for-suggestions type="boolean">true</use-for-suggestions>
+  <visibility-restriction-id type="integer">1</visibility-restriction-id>
+  <is-public type="boolean">true</is-public>
+</forum>
+<forum>
+  <category-id type="integer" nil="true"/>
+  <description>Various tips and tricks from users. Vote for the most helpful tips.</description>
+  <display-type-id type="integer">1</display-type-id>
+  <entries-count type="integer">0</entries-count>
+  <id type="integer">20089907</id>
+  <is-locked type="boolean">false</is-locked>
+  <name>Tips &amp; Tricks</name>
+  <organization-id type="integer" nil="true"/>
+  <position type="integer">3</position>
+  <translation-locale-id type="integer" nil="true"/>
+  <updated-at type="datetime">2011-06-02T22:26:00+10:00</updated-at>
+  <use-for-suggestions type="boolean">true</use-for-suggestions>
+  <visibility-restriction-id type="integer">1</visibility-restriction-id>
+  <is-public type="boolean">true</is-public>
+</forum>
+<forum>
+  <category-id type="integer" nil="true"/>
+  <description>Ideas and requests for new features. Suggest ideas. Vote for the best. See what's planned.</description>
+  <display-type-id type="integer">2</display-type-id>
+  <entries-count type="integer">1</entries-count>
+  <id type="integer">20089912</id>
+  <is-locked type="boolean">false</is-locked>
+  <name>Feature Requests</name>
+  <organization-id type="integer" nil="true"/>
+  <position type="integer">4</position>
+  <translation-locale-id type="integer" nil="true"/>
+  <updated-at type="datetime">2011-06-02T22:26:00+10:00</updated-at>
+  <use-for-suggestions type="boolean">true</use-for-suggestions>
+  <visibility-restriction-id type="integer">1</visibility-restriction-id>
+  <is-public type="boolean">true</is-public>
+</forum>
+<forum>
+  <category-id type="integer" nil="true"/>
+  <description></description>
+  <display-type-id type="integer">1</display-type-id>
+  <entries-count type="integer">2</entries-count>
+  <id type="integer">20089917</id>
+  <is-locked type="boolean">false</is-locked>
+  <name>Agents Only</name>
+  <organization-id type="integer" nil="true"/>
+  <position type="integer">6</position>
+  <translation-locale-id type="integer" nil="true"/>
+  <updated-at type="datetime">2013-04-19T10:51:36+10:00</updated-at>
+  <use-for-suggestions type="boolean">true</use-for-suggestions>
+  <visibility-restriction-id type="integer">3</visibility-restriction-id>
+  <is-public type="boolean">false</is-public>
+</forum>
+</forums>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account>
+  <allowed-api-requests-per-minute type="integer">5</allowed-api-requests-per-minute>
+  <created-at type="datetime">2011-06-02T22:26:00+10:00</created-at>
+  <deleted-at type="datetime" nil="true"/>
+  <help-desk-size>10-99</help-desk-size>
+  <host>zendesk.com</host>
+  <host-mapping nil="true"/>
+  <id type="integer">85985</id>
+  <is-active type="boolean">true</is-active>
+  <is-openid-enabled type="boolean">false</is-openid-enabled>
+  <is-serviceable type="boolean">true</is-serviceable>
+  <is-ssl-enabled type="boolean">true</is-ssl-enabled>
+  <locale-id type="integer">1</locale-id>
+  <lock-state type="integer">0</lock-state>
+  <name>Jericho</name>
+  <owner-id type="integer">212447715</owner-id>
+  <route-id type="integer">57351</route-id>
+  <sandbox-master-id type="integer" nil="true"/>
+  <shard-id type="integer">217</shard-id>
+  <subdomain>insermo</subdomain>
+  <time-zone>Melbourne</time-zone>
+  <updated-at type="datetime">2014-06-02T17:52:42+10:00</updated-at>
+</account>

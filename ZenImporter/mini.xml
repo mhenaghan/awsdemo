@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tickets report_date="20140604">
+<ticket>
+  <assigned-at type="datetime">2013-02-25T17:38:36+11:00</assigned-at>
+  <assignee-id type="integer">212447715</assignee-id>
+  <base-score type="integer">0</base-score>
+  <created-at type="datetime">2013-02-25T17:38:36+11:00</created-at>
+  <current-collaborators nil="true"/>
+  <current-tags>dev pending_support smartmail_pro</current-tags>
+  <description>We require a HTML Email Gallery to showcase our emails to clients.
+
+Work Required:
+- Domain name
+- Hosting
+- Design &amp; Development of Site
+- Resourcing Email Templates
+
+Aiming to have this ready for our next monthly Jericho Newsletter.</description>
+  <due-date type="datetime">2013-04-30T12:00:00+10:00</due-date>
+  <entry-id type="integer" nil="true"/>
+  <external-id nil="true"/>
+  <group-id type="integer">20022727</group-id>
+  <initially-assigned-at type="datetime">2013-02-25T17:38:36+11:00</initially-assigned-at>
+  <latest-recipients nil="true"/>
+  <nice-id type="integer">2173</nice-id>
+  <organization-id type="integer">22179959</organization-id>
+  <original-recipient-address nil="true"/>
+  <priority-id type="integer">3</priority-id>
+  <recipient nil="true"/>
+  <requester-id type="integer">208144299</requester-id>
+  <resolution-time type="integer">8998</resolution-time>
+  <solved-at type="datetime">2014-03-07T15:17:59+11:00</solved-at>
+  <status-id type="integer">4</status-id>
+  <status-updated-at type="datetime">2014-03-11T16:02:36+11:00</status-updated-at>
+  <subject>INTERNAL: HTML Email Gallery</subject>
+  <submitter-id type="integer">212447715</submitter-id>
+  <ticket-type-id type="integer">4</ticket-type-id>
+  <updated-at type="datetime">2014-03-11T16:02:36+11:00</updated-at>
+  <updated-by-type-id type="integer">0</updated-by-type-id>
+  <via-id type="integer">0</via-id>
+  <score type="integer">0</score>
+  <problem-id nil="true"/>
+  <has-incidents type="boolean">false</has-incidents>
+  <comments type="array">
+    <comment>
+      <author-id type="integer">212447715</author-id>
+      <created-at type="datetime">2013-02-25T17:38:36+11:00</created-at>
+      <is-public type="boolean">true</is-public>
+      <type>Comment</type>
+      <value>We require a HTML Email Gallery to showcase our emails to clients.
+
+Work Required:
+- Domain name
+- Hosting
+- Design &amp; Development of Site
+- Resourcing Email Templates
+
+Aiming to have this ready for our next monthly Jericho Newsletter.
+
+</value>
+      <via-id type="integer">0</via-id>
+      <attachments type="array"/>
+    </comment>
+    <comment>
+      <author-id type="integer">212447715</author-id>
+      <created-at type="datetime">2013-03-01T17:47:46+11:00</created-at>
+      <is-public type="boolean">true</is-public>
+      <type>Comment</type>
+      <value>Have requested domain and hosting solution from John.
+
+</value>
+      <via-id type="integer">0</via-id>
+      <attachments type="array"/>
+    </comment>
+    <comment>
+      <author-id type="integer">212447715</author-id>
+      <created-at type="datetime">2013-03-28T18:47:41+11:00</created-at>
+      <is-public type="boolean">true</is-public>
+      <type>Comment</type>
+      <value>Currently on hold due to workload.
+
+</value>
+      <via-id type="integer">0</via-id>
+      <attachments type="array"/>
+    </comment>
+  </comments>
+  <ticket-field-entries type="array">
+    <ticket-field-entry>
+      <ticket-field-id type="integer">20288907</ticket-field-id>
+      <value>dev</value>
+    </ticket-field-entry>
+    <ticket-field-entry>
+      <ticket-field-id type="integer">20966279</ticket-field-id>
+      <value>smartmail_pro</value>
+    </ticket-field-entry>
+    <ticket-field-entry>
+      <ticket-field-id type="integer">21076230</ticket-field-id>
+      <value>pending_support</value>
+    </ticket-field-entry>
+  </ticket-field-entries>
+  <linkings type="array"/>
+  <channel nil="true"/>
+  <permissions>
+  </permissions>
+</ticket>
+<ticket>
+  <assigned-at type="datetime">2014-02-25T17:11:16+11:00</assigned-at>
+  <assignee-id type="integer">212447715</assignee-id>
+  <base-score type="integer">0</base-score>
+  <created-at type="datetime">2013-04-04T16:32:23+11:00</created-at>
+  <current-collaborators nil="true"/>
+  <current-tags>aemy dev pending_support smartmail_pro</current-tags>
+  <description>Hi,
+
+I am just wondering if we can change the time to AU time.
+I have set-up this account as an AU account. Did I miss out anything?
+
+Account: Aemy Tester
+The time should be 4:22 p.m.
+
+[cid:image001.png@01CE3151.4EE86C50]
+
+
+User preference
+[cid:image002.png@01CE3151.4EE86C50]
+
+SA - Business Group
+[cid:image003.png@01CE3151.4EE86C50]
+
+SA - Contact Details
+[cid:image004.png@01CE3151.F6C4AEC0]
+Thanks,
+Aemy
+
+Aemy Liaw
+Digital Campaign Producer
+_________________________________________
+[jerichodc]
+
+Building 10, Level 3 658 Church Street, Richmond
+Victoria 3121 AU
+p :: 03 9015 7497
+e :: aliaw@jerichodc.com&lt;mailto:aliaw@jerichodc.com&gt;
+w :: http://www.jerichodc.com
+
+_________________________________________
+
+This email and any attachments are intended only for the use of the recipient and may be confidential and/or legally privileged. Jericho Digital Communications disclaims liability for any errors, omissions, viruses, loss and/or damage arising from using, opening or transmitting this email. If you are not the intended recipient you must not use, interfere with, disclose, copy or retain this.</description>
+  <due-date type="datetime" nil="true"/>
+  <entry-id type="integer" nil="true"/>
+  <external-id nil="true"/>
+  <group-id type="integer">20022727</group-id>
+  <initially-assigned-at type="datetime">2013-04-04T16:34:33+11:00</initially-assigned-at>
+  <latest-recipients>aliaw@jerichodc.com support@smartmailpro.com support@jerichodc.com</latest-recipients>
+  <nice-id type="integer">2404</nice-id>
+  <organization-id type="integer" nil="true"/>
+  <original-recipient-address nil="true"/>
+  <priority-id type="integer">2</priority-id>
+  <recipient>support@insermo.zendesk.com</recipient>
+  <requester-id type="integer">293814281</requester-id>
+  <resolution-time type="integer">8087</resolution-time>
+  <solved-at type="datetime">2014-03-07T15:17:37+11:00</solved-at>
+  <status-id type="integer">4</status-id>
+  <status-updated-at type="datetime">2014-03-11T16:02:36+11:00</status-updated-at>
+  <subject>SMP: 2824 - Jericho DC - Can we change NZ time in SMP to AUS time?</subject>
+  <submitter-id type="integer">293814281</submitter-id>
+  <ticket-type-id type="integer">3</ticket-type-id>
+  <updated-at type="datetime">2014-03-11T16:02:36+11:00</updated-at>
+  <updated-by-type-id type="integer">0</updated-by-type-id>
+  <via-id type="integer">4</via-id>
+  <score type="integer">0</score>
+  <problem-id nil="true"/>
+  <has-incidents type="boolean">false</has-incidents>
+  <comments type="array">
+    <comment>
+      <author-id type="integer">293814281</author-id>
+      <created-at type="datetime">2013-04-04T16:32:23+11:00</created-at>
+      <is-public type="boolean">true</is-public>
+      <type>Comment</type>
+      <value>Hi,
+
+I am just wondering if we can change the time to AU time.
+I have set-up this account as an AU account. Did I miss out anything?
+
+Account: Aemy Tester
+The time should be 4:22 p.m.
+
+[cid:image001.png@01CE3151.4EE86C50]
+
+
+User preference
+[cid:image002.png@01CE3151.4EE86C50]
+
+SA - Business Group
+[cid:image003.png@01CE3151.4EE86C50]
+
+SA - Contact Details
+[cid:image004.png@01CE3151.F6C4AEC0]
+Thanks,
+Aemy
+
+Aemy Liaw
+Digital Campaign Producer
+_________________________________________
+[jerichodc]
+
+Building 10, Level 3 658 Church Street, Richmond
+Victoria 3121 AU
+p :: 03 9015 7497
+e :: aliaw@jerichodc.com&lt;mailto:aliaw@jerichodc.com&gt;
+w :: http://www.jerichodc.com
+
+_________________________________________
+
+This email and any attachments are intended only for the use of the recipient and may be confidential and/or legally privileged. Jericho Digital Communications disclaims liability for any errors, omissions, viruses, loss and/or damage arising from using, opening or transmitting this email. If you are not the intended recipient you must not use, interfere with, disclose, copy or retain this.</value>
+      <via-id type="integer">4</via-id>
+      <attachments type="array">
+        <attachment>
+          <content-type>image/png</content-type>
+          <created-at type="datetime">2013-04-04T16:32:23+11:00</created-at>
+          <filename>image001.png</filename>
+          <id type="integer">156038605</id>
+          <is-public type="boolean">true</is-public>
+          <size type="integer">13579</size>
+          <token>2knoejcbqw2eiqa</token>
+          <url>https://insermo.zendesk.com/attachments/token/2knoejcbqw2eiqa/?name=image001.png</url>
+        </attachment>
+        <attachment>
+          <content-type>image/png</content-type>
+          <created-at type="datetime">2013-04-04T16:32:23+11:00</created-at>
+          <filename>image002.png</filename>
+          <id type="integer">156038615</id>
+          <is-public type="boolean">true</is-public>
+          <size type="integer">12232</size>
+          <token>el34dkf5ujrpyxx</token>
+          <url>https://insermo.zendesk.com/attachments/token/el34dkf5ujrpyxx/?name=image002.png</url>
+        </attachment>
+        <attachment>
+          <content-type>image/png</content-type>
+          <created-at type="datetime">2013-04-04T16:32:23+11:00</created-at>
+          <filename>image003.png</filename>
+          <id type="integer">156038625</id>
+          <is-public type="boolean">true</is-public>
+          <size type="integer">1932</size>
+          <token>zmzkn4zeqkidvzk</token>
+          <url>https://insermo.zendesk.com/attachments/token/zmzkn4zeqkidvzk/?name=image003.png</url>
+        </attachment>
+        <attachment>
+          <content-type>image/png</content-type>
+          <created-at type="datetime">2013-04-04T16:32:23+11:00</created-at>
+          <filename>image004.png</filename>
+          <id type="integer">156038635</id>
+          <is-public type="boolean">true</is-public>
+          <size type="integer">25347</size>
+          <token>m7jfsjuumofhji8</token>
+          <url>https://insermo.zendesk.com/attachments/token/m7jfsjuumofhji8/?name=image004.png</url>
+        </attachment>
+      </attachments>
+    </comment>
+    <comment>
+      <author-id type="integer">85791708</author-id>
+      <created-at type="datetime">2013-04-04T17:48:21+11:00</created-at>
+      <is-public type="boolean">false</is-public>
+      <type>Comment</type>
+      <value>Assembla ticket created 2824 : Jericho DC - Can we change NZ time in SMP to AUS time? </value>
+      <via-id type="integer">0</via-id>
+      <attachments type="array"/>
+    </comment>
+    <comment>
+      <author-id type="integer">85791708</author-id>
+      <created-at type="datetime">2013-04-08T16:01:44+10:00</created-at>
+      <is-public type="boolean">false</is-public>
+      <type>Comment</type>
+      <value> on 2013-04-05 06:35 * By Samuel Hannah
+Status changed from New to In Progress
+SmartMail Pro only displays in NZST. The User Preference option is not functioning as intended. I will talk with the team about an approach to this. </value>
+      <via-id type="integer">0</via-id>
+      <attachments type="array"/>
+    </comment>
+    <comment>
+      <author-id type="integer">85791708</author-id>
+      <created-at type="datetime">2013-04-15T11:31:42+10:00</created-at>
+      <is-public type="boolean">false</is-public>
+      <type>Comment</type>
+      <value>Support Update 15/04/2013 - -	The User Preference function is not working as intended. To be fixed and released</value>
+      <via-id type="integer">0</via-id>
+      <attachments type="array"/>
+    </comment>
+    <comment>
+      <author-id type="integer">85791708</author-id>
+      <created-at type="datetime">2013-04-29T10:44:13+10:00</created-at>
+      <is-public type="boolean">false</is-public>
+      <type>Comment</type>
+      <value>Support Update 29/04/2013
+Can we change NZ time in SMP to AUS time?
+-	The User Preference function is not working as intended. To be fixed and released
+</value>
+      <via-id type="integer">0</via-id>
+      <attachments type="array"/>
+    </comment>
+    <comment>
+      <author-id type="integer">85791708</author-id>
+      <created-at type="datetime">2013-05-31T14:59:38+10:00</created-at>
+      <is-public type="boolean">false</is-public>
+      <type>Comment</type>
+      <value>Support Update 27/05/2013
+-	The User Preference function is not working as intended. To be fixed and released</value>
+      <via-id type="integer">0</via-id>
+      <attachments type="array"/>
+    </comment>
+    <comment>
+      <author-id type="integer">85791708</author-id>
+      <created-at type="datetime">2013-06-11T13:02:59+10:00</created-at>
+      <is-public type="boolean">false</is-public>
+      <type>Comment</type>
+      <value>Support Update 10/06/2013
+#2824 – Can we change NZ time in SMP to AUS time?
+-	The User Preference function is not working as intended. To be fixed and released
+-	4 clients have called about confusion around this</value>
+      <via-id type="integer">0</via-id>
+      <attachments type="array"/>
+    </comment>
+    <comment>
+      <author-id type="integer">85791708</author-id>
+      <created-at type="datetime">2013-08-12T10:23:01+10:00</created-at>
+      <is-public type="boolean">false</is-public>
+      <type>Comment</type>
+      <value>Support Update 12/08/2013
+
+#2824 – Can we change NZ time in SMP to AUS time?
+-	The User Preference function is not working as intended. To be fixed and released
+-	4 clients have called about confusion around this</value>
+      <via-id type="integer">0</via-id>
+      <attachments type="array"/>
+    </comment>
+    <comment>
+      <author-id type="integer">85791708</author-id>
+      <created-at type="datetime">2013-09-02T15:32:19+10:00</created-at>
+      <is-public type="boolean">false</is-public>
+      <type>Comment</type>
+      <value>Support Update 02/09/2013
+
+#2824 – Can we change NZ time in SMP to AUS time?
+-	The User Preference function is not working as intended. To be fixed and released
+-	5 clients have called about confusion around this</value>
+      <via-id type="integer">0</via-id>
+      <attachments type="array"/>
+    </comment>
+    <comment>
+      <author-id type="integer">85791708</author-id>
+      <created-at type="datetime">2013-09-06T10:55:16+10:00</created-at>
+      <is-public type="boolean">false</is-public>
+      <type>Comment</type>
+      <value>Support Update 02/09/2013
+
+#2824 – Can we change NZ time in SMP to AUS time?
+-	The User Preference function is not working as intended. To be fixed and released
+-	5 clients have called about confusion around this
+-	This is currently set as an item in the next release</value>
+      <via-id type="integer">0</via-id>
+      <attachments type="array"/>
+    </comment>
+    <comment>
+      <author-id type="integer">85791708</author-id>
+      <created-at type="datetime">2013-09-19T11:58:01+10:00</created-at>
+      <is-public type="boolean">false</is-public>
+      <type>Comment</type>
+      <value>Support Update 16/09/2013
+
+-	This is currently set as an item in the next release</value>
+      <via-id type="integer">0</via-id>
+      <attachments type="array"/>
+    </comment>
+    <comment>
+      <author-id type="integer">85791708</author-id>
+      <created-at type="datetime">2013-10-07T12:53:00+11:00</created-at>
+      <is-public type="boolean">false</is-public>
+      <type>Comment</type>
+      <value>Support Update 07/10/2013
+
+#2824 – Can we change NZ time in SMP to AUS time?
+-	The User Preference function is not working as intended. To be fixed and released
+-	5 clients have called about confusion around this
+-	This is currently set as an item in the next release</value>
+      <via-id type="integer">0</via-id>
+      <attachments type="array"/>
+    </comment>
+    <comment>
+      <author-id type="integer">85791708</author-id>
+      <created-at type="datetime">2013-11-25T10:58:15+11:00</created-at>
+      <is-public type="boolean">false</is-public>
+      <type>Comment</type>
+      <value>#2824 – Can we change NZ time in SMP to AUS time?
+-	The User Preference function is not working as intended. To be fixed and released
+-	5 clients have called about confusion around this
+-	This is currently set as an item in the next release</value>
+      <via-id type="integer">0</via-id>
+      <attachments type="array"/>
+    </comment>
+    <comment>
+      <author-id type="integer">85791708</author-id>
+      <created-at type="datetime">2014-01-22T16:20:21+11:00</created-at>
+      <is-public type="boolean">false</is-public>
+      <type>Comment</type>
+      <value>In progress
+
+-------
+
+2013-12-11 14:40 * By Glen McMillan
+It's on the timeline to resolve immediately after SMS is complete enough to migrate basic AU SMS clients.
+User picture
+  on 2013-12-11 14:40 * By mmackie
+ Attachment confirmation-nz.jpg deleted
+User picture
+  on 2013-12-11 14:45 * By mmackie
+Thanks Glen.</value>
+      <via-id type="integer">0</via-id>
+      <attachments type="array"/>
+    </comment>
+    <comment>
+      <author-id type="integer">85791708</author-id>
+      <created-at type="datetime">2014-02-04T15:06:08+11:00</created-at>
+      <is-public type="boolean">false</is-public>
+      <type>Comment</type>
+      <value>Ticket alert by Myles Henaghan (myles@jericho.co.nz) in project SmartMail Pro ( reply ABOVE this line ) 
+#2824: Jericho DC - Can we change NZ time in SMP to AUS time?
+Created on: 2013-04-04
+Reported by: amanda2012
+Assigned to: myles@jericho.co.nz
+Milestone: Backlog	Status: In Progress
+Priority: Highest (1)
+Component: 
+Account Name: Jericho DC 	Account Region: AU 
+Billable Request: No 	Due date: 2013-04-04 
+Functional Area: ADMIN 	Source: Email 
+Type: BUG 	WIP Item: No 
+Comment:
+Comment (by Myles Henaghan):
+Hi Serg,
+Please get started on this one.
+Let me know when you have a plan to sort this out. Thanks,
+Myles</value>
+      <via-id type="integer">0</via-id>
+      <attachments type="array"/>
+    </comment>
+    <comment>
+      <author-id type="integer">85791708</author-id>
+      <created-at type="datetime">2014-02-25T17:11:16+11:00</created-at>
+      <is-public type="boolean">false</is-public>
+      <type>Comment</type>
+      <value>on 2014-02-18 09:06 *
+By Myles Henaghan
+Assigned to changed from Myles Henaghan to Sergey Gurin
+Hi Sergey,
+
+Please test the scheduled email timezone send. 
+
+======================================================
+ on 2014-02-17 11:40 *
+By Sergey Karpushev
+Assigned to changed from Sergey Karpushev to Myles Henaghan 
+
+email scheduling timezone fixed
+I need the list of remaining places with incorrect timezone 
+
+======================================================
+ on 2014-02-05 09:46 *
+By Myles Henaghan
+Assigned to changed from Myles Henaghan to Sergey Karpushev</value>
+      <via-id type="integer">0</via-id>
+      <attachments type="array"/>
+    </comment>
+  </comments>
+  <ticket-field-entries type="array">
+    <ticket-field-entry>
+      <ticket-field-id type="integer">20288907</ticket-field-id>
+      <value>dev</value>
+    </ticket-field-entry>
+    <ticket-field-entry>
+      <ticket-field-id type="integer">20966279</ticket-field-id>
+      <value>smartmail_pro</value>
+    </ticket-field-entry>
+    <ticket-field-entry>
+      <ticket-field-id type="integer">21076230</ticket-field-id>
+      <value>pending_support</value>
+    </ticket-field-entry>
+  </ticket-field-entries>
+  <linkings type="array"/>
+  <channel nil="true"/>
+  <permissions>
+  </permissions>
+</ticket>
+</tickets>

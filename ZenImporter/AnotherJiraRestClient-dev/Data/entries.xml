@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entries report_date="20140604">
+<entry>
+  <body>&lt;p&gt;This topic was posted to the restricted &lt;a href='/forums/20089917'&gt;Agents Only forum&lt;/a&gt; in your help desk and pinned to the home page. The topic is visible to help desk agents only, not your customers. Edit it to your liking - you typically want to pin announcements and other news related topics.&lt;/p&gt;
+&lt;p&gt;The home page is the landing page for both agents and customers. It can be customized by help desk administrators to e.g. include a search box, enabling users to easily find help in the forums.&lt;/p&gt;</body>
+  <created-at type="datetime">2011-06-02T22:26:01+10:00</created-at>
+  <current-tags nil="true"/>
+  <flag-type-id type="integer">1</flag-type-id>
+  <forum-id type="integer">20089917</forum-id>
+  <hits type="integer">10</hits>
+  <id type="integer">20168342</id>
+  <is-highlighted type="boolean">false</is-highlighted>
+  <is-locked type="boolean">false</is-locked>
+  <is-pinned type="boolean">false</is-pinned>
+  <is-public type="boolean">false</is-public>
+  <organization-id type="integer" nil="true"/>
+  <position type="integer" nil="true"/>
+  <posts-count type="integer">0</posts-count>
+  <submitter-id type="integer">62175152</submitter-id>
+  <title>For Your Eyes Only</title>
+  <updated-at type="datetime">2011-06-02T22:26:01+10:00</updated-at>
+  <votes-count type="integer">3</votes-count>
+  <attachments type="array"/>
+</entry>
+<entry>
+  <body>&lt;p&gt;Customer requested for Auto-responder function in Insermo Apps.&lt;/p&gt;</body>
+  <created-at type="datetime">2011-07-20T17:47:18+10:00</created-at>
+  <current-tags nil="true"/>
+  <flag-type-id type="integer">1</flag-type-id>
+  <forum-id type="integer">20089912</forum-id>
+  <hits type="integer">6</hits>
+  <id type="integer">20289727</id>
+  <is-highlighted type="boolean">false</is-highlighted>
+  <is-locked type="boolean">false</is-locked>
+  <is-pinned type="boolean">false</is-pinned>
+  <is-public type="boolean">true</is-public>
+  <organization-id type="integer" nil="true"/>
+  <position type="integer" nil="true"/>
+  <posts-count type="integer">0</posts-count>
+  <submitter-id type="integer">72447586</submitter-id>
+  <title>auto-responder</title>
+  <updated-at type="datetime">2011-07-20T17:47:18+10:00</updated-at>
+  <votes-count type="integer" nil="true"/>
+  <attachments type="array"/>
+</entry>
+<entry>
+  <body>&lt;h1&gt;&lt;strong&gt;Top-Ups done Daily&lt;/strong&gt;&lt;/h1&gt;</body>
+  <created-at type="datetime">2013-04-05T10:31:13+11:00</created-at>
+  <current-tags nil="true"/>
+  <flag-type-id type="integer">1</flag-type-id>
+  <forum-id type="integer">20089917</forum-id>
+  <hits type="integer">4</hits>
+  <id type="integer">21509714</id>
+  <is-highlighted type="boolean">false</is-highlighted>
+  <is-locked type="boolean">false</is-locked>
+  <is-pinned type="boolean">false</is-pinned>
+  <is-public type="boolean">false</is-public>
+  <organization-id type="integer" nil="true"/>
+  <position type="integer" nil="true"/>
+  <posts-count type="integer">10</posts-count>
+  <submitter-id type="integer">281966401</submitter-id>
+  <title>Autopay - Top ups</title>
+  <updated-at type="datetime">2013-04-30T10:13:21+10:00</updated-at>
+  <votes-count type="integer" nil="true"/>
+  <attachments type="array"/>
+</entry>
+</entries>
