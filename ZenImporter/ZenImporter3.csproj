@@ -56,6 +56,12 @@
   <ItemGroup>
     <Content Include="mini.xml" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="AnotherJiraRestClient-dev\AnotherJiraRestClient.csproj">
+      <Project>{49eb9a11-ed25-412a-9416-c124a0ccfb8f}</Project>
+      <Name>AnotherJiraRestClient</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
