@@ -16,7 +16,7 @@ namespace ZenImporter3
         static JiraClient jira;
         static ZenJiraBuilder builder;
         static TicketDictionary mappedTickets;
-
+        //want something new
         static double count = 0;
         static double total = 0;
 
